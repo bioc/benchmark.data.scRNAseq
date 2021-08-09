@@ -1,3 +1,14 @@
+---
+title: "Single-Cell RNA Sequencing Benchmark Datasets"
+author: "Astrid Wachter, Grant Greenberg"
+date: "`r doc_date()`"
+vignette: >
+  %\VignetteIndexEntry{Single-Cell RNA Sequencing Benchmark Dataset}
+  %\VignetteEngine{knitr::rmarkdown}
+output: 
+  BiocStyle::html_document
+---
+
 # benchmark.data.scRNAseq
 ## An R data package containing single-cell RNA-seq datasets
 
@@ -15,7 +26,7 @@ This package provides access to nine preprocessed SingleCellExperiment datasets.
 
 ## Install package
 ```
-install.packages("benchmark.data.scRNAseq", repos = NULL, type = "source")
+BiocManager::install("benchmark.data.scRNAseq")
 ```
 
 ## Loading a dataset (e.g.)

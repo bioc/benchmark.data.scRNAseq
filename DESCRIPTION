@@ -1,16 +1,15 @@
-Package: scRNAseq.datasets
+Package: benchmark.data.scRNAseq
 Type: Package
-Title: Single-Cell RNA Sequencing Datasets
+Title: Single-Cell RNA Sequencing Benchmark Datasets
 Version: 0.1.0
 Author: Greenberg, G. and Wachter, A
 Maintainer: Greenberg, G <grant.greenberg@abbvie.com>
-Description: This package contains nine scRNA-seq datasets. 
-  Seven are sequenced from human samples, and two from mouse 
-  samples. The datasets range from small (hundreds of cells)
-  to large (hundreds of thousands of cells). 
+Description: This package contains nine benchmark scRNA-seq 
+  datasets. Seven are sequenced from human samples, and two 
+  from mouse samples. The datasets range from small (hundreds 
+  of cells) to large (hundreds of thousands of cells). 
 Depends: R (>= 2.10)
-Imports:
-  SingleCellExperiment
+Imports: SingleCellExperiment, ExperimentHub
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: false
