@@ -30,5 +30,5 @@ cellmix = x[[1]]
 
 ## Getting dataset documentation (e.g.)
 ```
-?benchmark.data.scRNAseq::darmanis
+?benchmark.data.scRNAseq::cellmix
 ```

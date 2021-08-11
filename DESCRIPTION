@@ -3,7 +3,7 @@ Type: Package
 Title: Single-Cell RNA Sequencing Benchmark Datasets
 Version: 0.1.0
 Author: Greenberg, G. and Wachter, A
-Maintainer: Greenberg, G <grant.greenberg@abbvie.com>
+Maintainer: Wachter, A. <astrid.wachter@abbvie.com>
 Description: This package contains nine benchmark scRNA-seq 
   datasets. Seven are sequenced from human samples, and two 
   from mouse samples. The datasets range from small (hundreds 
@@ -14,3 +14,4 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: false
 RoxygenNote: 7.1.1
+biocViews: ExperimentHub, SingleCellData
