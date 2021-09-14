@@ -3,7 +3,6 @@
 \docType{package}
 \name{benchmark.data.scRNAseq}
 \alias{benchmark.data.scRNAseq}
-\alias{benchmark.data.scRNA.seq}
 \title{Single-Cell RNA Sequencing Datasets}
 \description{
 This package contains nine benchmark scRNA-seq datasets. Seven are
