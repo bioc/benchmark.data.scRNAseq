@@ -1,7 +1,7 @@
 Package: benchmark.data.scRNAseq
 Type: Package
 Title: Single-Cell RNA Sequencing Benchmark Datasets
-Version: 0.1.0
+Version: 0.99.0
 Author: Greenberg, G. and Wachter, A
 Maintainer: Wachter, A. <astrid.wachter@abbvie.com>
 Description: This package contains nine benchmark scRNA-seq 
